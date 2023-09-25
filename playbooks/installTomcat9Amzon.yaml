@@ -1,4 +1,4 @@
-- hosts: host machine
+- hosts: hostmachine
   become: true
   tasks:
     - name: Install Java
